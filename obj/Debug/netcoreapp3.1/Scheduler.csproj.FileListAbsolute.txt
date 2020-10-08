@@ -1,0 +1,73 @@
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\appsettings.Development.json
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\appsettings.json
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Scheduler.exe
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.csprojAssemblyReference.cache
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\staticwebassets\Scheduler.StaticWebAssets.Manifest.cache
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\staticwebassets\Scheduler.StaticWebAssets.xml
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfoInputs.cache
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfo.cs
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.RazorTargetAssemblyInfo.cache
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+F:\NeG IT\POCs\Hangfire\Scheduler\obj\Debug\netcoreapp3.1\Scheduler.csproj.CopyComplete
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.exe
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.deps.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.runtimeconfig.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.runtimeconfig.dev.json
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Scheduler.pdb
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Dapper.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Hangfire.AspNetCore.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Hangfire.Core.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Hangfire.PostgreSql.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Hangfire.SqlServer.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\Npgsql.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\es\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\fa\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\fr\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\nl\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\pt-BR\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\pt-PT\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\pt\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\zh-TW\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\zh\Hangfire.Core.resources.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Dev\CDC\HangFire\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.csprojAssemblyReference.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfoInputs.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.AssemblyInfo.cs
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.csproj.CoreCompileInputs.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.RazorTargetAssemblyInfo.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.csproj.CopyComplete
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\staticwebassets\Scheduler.StaticWebAssets.Manifest.cache
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\staticwebassets\Scheduler.StaticWebAssets.xml
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.dll
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.pdb
+D:\Dev\CDC\HangFire\obj\Debug\netcoreapp3.1\Scheduler.genruntimeconfig.cache
